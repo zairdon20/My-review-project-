@@ -33,11 +33,6 @@
   height: 100vh;
 }
 
-#welcome {
-  color: rgb(231, 29, 29);
-  text-align: center;
-}
-
 #role {
   color: red;
   text-align: center;
