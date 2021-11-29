@@ -34,15 +34,11 @@
 }
 
 #welcome {
-  font-family: Century Gothic;
-  font-size: larger;
   color: rgb(231, 29, 29);
   text-align: center;
 }
 
 #role {
-  font-family: Franklin Gothic Medium;
-  font-size: small;
   color: red;
   text-align: center;
 }
@@ -55,8 +51,7 @@
   display: grid;
   justify-content: center;
   align-items: center;
-  grid-template-rows: 50%;
-  grid-gap: 0px;
+  grid-template-rows: 100px;
 }
 
 #projects img {
